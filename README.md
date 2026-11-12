@@ -1,5 +1,7 @@
 # ParqueaHuila
 
+![CI/CD Pipeline](https://github.com/BrayanYara1/parquea-huila/actions/workflows/ci-cd.yml/badge.svg)
+
 Parqueadero de ejemplo para la clase de **CI/CD con GitHub Actions y AWS** (Arquitectura de Software · CORHUILA).
 
 - Registrar entrada (placa + carro/moto), ver cupos libres, registrar salida y cobrar.
